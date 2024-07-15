@@ -24,7 +24,7 @@ video {
 p {
     color: #fff;
     margin-top: 10px;
-    font-size: 24px;
+    font-size: 16px;
 }
 
 button {
@@ -61,7 +61,7 @@ textarea {
 }
 
 .img-mario-luigi{
-    height: 600px;
+    height: 444px;
 }
 
 .caixa-principal {
